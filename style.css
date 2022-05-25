@@ -34,7 +34,9 @@ body {
   margin: 0 auto 0;
 }
 
-.task-input {
+.task-label,
+.task-input
+ {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
